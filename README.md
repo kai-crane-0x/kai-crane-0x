@@ -5,6 +5,7 @@ Security researcher. Bug hunter. Occasional ghost.
 If you're reading this, you were curious enough to look.
 
 **Currently working on:** something the Directorate won't like.
+
 **Last seen:** heading to base, 64 days ago.
 
 
