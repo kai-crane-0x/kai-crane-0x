@@ -1,16 +1,101 @@
-## Hi there 👋
+# Kai Crane
 
-<!--
-**kai-crane-0x/kai-crane-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher. Bug hunter. Occasional ghost.
 
-Here are some ideas to get you started:
+If you're reading this, you were curious enough to look.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working on:** something the Directorate won't like.
+**Last seen:** heading to base, 64 days ago.
+
+
+
+> "The best place to hide something is in plain sight."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- If you can see this, you looked closer than most. -->
+<!-- WkVST0RBWXtnaDBzdF9wcjBmMWxlX2YwdW5kfQ== -->
