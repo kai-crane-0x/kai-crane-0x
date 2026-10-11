@@ -8,6 +8,7 @@ If you're reading this, you were curious enough to look.
 
 **Last seen:** heading to base, 64 days ago.
 
+**Keycode:** SERENDIPITY.
 
 
 > "The best place to hide something is in plain sight."
